@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "b69e",
+      "cityName": "Ða Lat",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-04-10T14:06:51.161Z",
+      "notes": "test",
+      "position": {
+        "lat": "11.926477793848226",
+        "lng": "108.42407226562501"
+      }
+    },
+    {
+      "id": "6cfb",
+      "cityName": "Bao Loc",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-04-10T14:11:03.698Z",
+      "notes": "test",
+      "position": {
+        "lat": "11.539234379090725",
+        "lng": "107.80883789062501"
+      }
+    },
+    {
+      "id": "f556",
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-04-10T15:46:26.893Z",
+      "notes": "test",
+      "position": {
+        "lat": "21.022982546427425",
+        "lng": "105.85739135742189"
+      }
+    }
+  ]
+}
